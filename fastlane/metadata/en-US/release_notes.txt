@@ -1,2 +1,1 @@
-• Improved the accessibility of manual token entry when using VoiceOver
-• Improved app efficiency, reducing energy usage and processor load by over 95%
+This release fixes an issue that was causing the app to crash on launch for some users.
